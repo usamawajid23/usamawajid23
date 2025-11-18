@@ -4,7 +4,7 @@
 I am a passionate Android Developer who loves building high-quality, scalable, and user-centric mobile applications.
 I enjoy working with modern Android technologies, clean architecture patterns, and creating smooth, pixel-perfect user experiences.
 
-🔧 **Technologies & Tools**
+# 🔧 Technologies & Tools
 
 📱 Kotlin
 ⚙️ Android Jetpack (Compose, Room, ViewModel, LiveData, Navigation)
