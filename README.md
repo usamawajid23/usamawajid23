@@ -21,7 +21,7 @@ I enjoy working with modern Android technologies, clean architecture patterns, a
 📦 Gradle
 🧱 Modular Architecture
 
-✍️ Blog & Writing
+## ✍️ Blog & Writing
 
 Besides coding, I write about Android development — performance, architecture, tips & tricks, and solutions for real-world problems.
 
@@ -29,7 +29,7 @@ You will soon find my articles on my website at:
 
 ➡️ usamawajid.dev (coming soon)
 
-Topics I write about:
+## Topics I write about:
 
 “Improving ExoPlayer Performance in Modern Android Apps”
 
@@ -41,27 +41,7 @@ Topics I write about:
 
 “How to Optimize API Calls With Kotlin Coroutines”
 
-🤝 You can reach out to me for:
-
-Android Freelance / Remote Projects
-
-Open-Source Collaborations
-
-Consultation on App Architecture
-
-Performance Optimization for Android Apps
-
-Video Streaming / ExoPlayer / Media3 Work
-
-🌐 Connect with me
+## 🌐 Connect with me
 
 🔗 GitHub: github.com/usamawajid
 🔗 LinkedIn: linkedin.com/in/usamawajid
-
-If you want, I can design:
-
-✅ A more creative README
-✅ One with emoji styling
-✅ A minimal/clean version
-✅ A professional corporate-style version
-✅ One including GitHub stats, badges & animated sections
