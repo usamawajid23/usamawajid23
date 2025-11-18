@@ -21,25 +21,18 @@ I enjoy working with modern Android technologies, clean architecture patterns, a
 - 📦 Gradle
 - 🧱 Modular Architecture
 
-## ✍️ Blog & Writing
-
-Besides coding, I write about Android development — performance, architecture, tips & tricks, and solutions for real-world problems.
-
-You will soon find my articles on my website at:
-
-➡️ usamawajid.dev (coming soon)
-
-**Topics I write about:**
-
-“Improving ExoPlayer Performance in Modern Android Apps”
-
-“MVVM vs MVI — Which Architecture Should You Pick?”
-
-“Building Scalable Android Apps Using Modular Architecture”
-
-“Jetpack Compose vs XML — When to Use What?”
-
-“How to Optimize API Calls With Kotlin Coroutines”
+> ### ✍️ Blog & Writing  
+> Besides coding, I write about Android development — performance, architecture, tips & tricks, and real-world solutions.  
+>   
+> You will soon find my articles on my website:  
+> **➡️ usamawajid.dev (coming soon)**  
+>   
+> **Topics I write about:**  
+> - “Improving ExoPlayer Performance in Modern Android Apps”  
+> - “MVVM vs MVI — Which Architecture Should You Pick?”  
+> - “Building Scalable Android Apps Using Modular Architecture”  
+> - “Jetpack Compose vs XML — When to Use What?”  
+> - “How to Optimize API Calls With Kotlin Coroutines”
 
 ## 🌐 Connect with me
 
