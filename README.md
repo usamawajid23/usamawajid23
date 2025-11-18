@@ -1,4 +1,4 @@
-👋 Hi there, I'm Usama Wajid
+# 👋 Hi there, I'm Usama Wajid
 💚 Android Developer | Native Mobile Engineer
 
 I am a passionate Android Developer who loves building high-quality, scalable, and user-centric mobile applications.
