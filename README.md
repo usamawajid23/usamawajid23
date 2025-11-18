@@ -4,22 +4,22 @@
 I am a passionate Android Developer who loves building high-quality, scalable, and user-centric mobile applications.
 I enjoy working with modern Android technologies, clean architecture patterns, and creating smooth, pixel-perfect user experiences.
 
-## 🔧 Technologies & Tools
+🔧 **Technologies & Tools**
 
-📱 Kotlin
-⚙️ Android Jetpack (Compose, Room, ViewModel, LiveData, Navigation)
-🎬 ExoPlayer / Media3
-🏗️ MVVM / MVI / Clean Architecture
-🌐 Retrofit / OkHttp
-🔥 Firebase (Firestore, Authentication, Cloud Storage, Analytics)
-🎨 XML UI / Jetpack Compose UI
-📦 Hilt / Dagger (Dependency Injection)
-🧪 Unit Testing / UI Testing
-⚡ Coroutines / Flow
-🚀 REST APIs / WebSockets
-📁 Git / GitHub / GitLab
-📦 Gradle
-🧱 Modular Architecture
+- 📱 Kotlin
+- ⚙️ Android Jetpack (Compose, Room, ViewModel, LiveData, Navigation)
+- 🎬 ExoPlayer / Media3
+- 🏗️ MVVM / MVI / Clean Architecture
+- 🌐 Retrofit / OkHttp
+- 🔥 Firebase (Firestore, Authentication, Cloud Storage, Analytics)
+- 🎨 XML UI / Jetpack Compose UI
+- 📦 Hilt / Dagger (Dependency Injection)
+- 🧪 Unit Testing / UI Testing
+- ⚡ Coroutines / Flow
+- 🚀 REST APIs / WebSockets
+- 📁 Git / GitHub / GitLab
+- 📦 Gradle
+- 🧱 Modular Architecture
 
 ## ✍️ Blog & Writing
 
