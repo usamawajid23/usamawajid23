@@ -29,7 +29,7 @@ You will soon find my articles on my website at:
 
 ➡️ usamawajid.dev (coming soon)
 
-## Topics I write about:
+**Topics I write about:**
 
 “Improving ExoPlayer Performance in Modern Android Apps”
 
